@@ -1,4 +1,3 @@
-# RouteMaster
 # RouteMaster - Bus Scheduling and Booking System
 
 ## 📋 Project Overview
@@ -31,9 +30,9 @@ RouteMaster is a comprehensive web-based bus scheduling and booking system that 
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript
+- **Frontend**: HTML5, CSS, JavaScript
 - **Backend**: PHP
-- **Database**: MySQL (MariaDB)
+- **Database**: MySQL
 - **Server**: Apache/XAMPP
 - **Payment Integration**: Support for major payment gateways
 
@@ -73,7 +72,7 @@ The system uses a MySQL database (`busschedulings`) with the following main tabl
 ### Prerequisites
 - XAMPP or similar local server environment
 - PHP 8.2+ 
-- MySQL/MariaDB
+- MySQL
 - Web browser
 
 ### Installation Steps
@@ -153,20 +152,6 @@ The application features a modern, responsive design with:
 5. **Refund Processing**: Automated refund system for cancellations
 6. **Feedback System**: Customer support and feedback collection
 7. **Admin Controls**: Comprehensive administrative tools
-
-## 📞 Contact Information
-
-- **Email**: userone@gmail.com
-
-- **Social Media**: RouteMaster/facebook.com
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
