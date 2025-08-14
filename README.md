@@ -153,17 +153,11 @@ The application features a modern, responsive design with:
 6. **Feedback System**: Customer support and feedback collection
 7. **Admin Controls**: Comprehensive administrative tools
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Built with modern web technologies
 - Designed for scalability and maintainability
 - Focused on user experience and accessibility
 - Comprehensive error handling and validation
-
----
 
 **RouteMaster** - Making bus travel simple, secure, and convenient! 🚌✨
