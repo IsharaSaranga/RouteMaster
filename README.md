@@ -160,4 +160,4 @@ The application features a modern, responsive design with:
 - Focused on user experience and accessibility
 - Comprehensive error handling and validation
 
-**RouteMaster** - Making bus travel simple, secure, and convenient! 🚌✨
+**RouteMaster** - Making bus travel simple, secure, and convenient! 🚌
