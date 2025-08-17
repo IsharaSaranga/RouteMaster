@@ -136,8 +136,7 @@ The system uses a MySQL database (`busschedulings`) with the following main tabl
 - SQL injection prevention
 
 ## 📱 User Interface
-
-The application features a modern, responsive design with:
+- The application features a modern, responsive design with:
 - Clean and intuitive navigation
 - Mobile-friendly interface
 - Professional styling with CSS
