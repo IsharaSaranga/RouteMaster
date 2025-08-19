@@ -159,4 +159,4 @@ The system uses a MySQL database (`busschedulings`) with the following main tabl
 - Focused on user experience and accessibility
 - Comprehensive error handling and validation
 
-**RouteMaster** - Making bus travel simple, secure, and convenient! 🚌
+**RouteMaster** Making bus travel simple, secure, and convenient! 🚌
