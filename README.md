@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-RouteMaster is a comprehensive web-based bus scheduling and booking system that provides real-time bus information, seat reservation, and payment processing. The system serves as a complete solution for bus transportation management with separate interfaces for passengers, drivers, and administrators.
+   RouteMaster is a comprehensive web-based bus scheduling and booking system that provides real-time bus information, seat reservation, and payment processing. The system serves as a complete solution for bus transportation management with separate interfaces for passengers, drivers, and administrators.
 
 ## 🚀 Features
 
@@ -71,7 +71,7 @@ The system uses a MySQL database (`busschedulings`) with the following main tabl
 
 ### Prerequisites
 - XAMPP or similar local server environment
-- PHP 8.2+ 
+- PHP
 - MySQL
 - Web browser
 
