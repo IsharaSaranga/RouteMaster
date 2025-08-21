@@ -21,6 +21,7 @@
 - **Passenger Information**: Access passenger details for assigned trips
 
 ### For Administrators
+
 - **Admin Dashboard**: Comprehensive management interface
 - **Driver Management**: Add, edit, and manage driver information
 - **Passenger Management**: View and manage passenger accounts
@@ -58,7 +59,7 @@ RouteMaster/
 
 ## 🗄️ Database Schema
 
-The system uses a MySQL database (`busschedulings`) with the following main tables:
+The system uses a MySQL database  with the following main tables:
 
 - **bus**: Bus schedules and routes
 - **passenger**: Passenger account information
