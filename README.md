@@ -7,6 +7,7 @@
 ## 🚀 Features
 
 ### For Passengers
+
 - **User Registration & Authentication**: Secure signup and login system
 - **Bus Search & Booking**: Search available buses by route, date, and time
 - **Seat Reservation**: Real-time seat booking with instant confirmation
