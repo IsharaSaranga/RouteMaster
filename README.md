@@ -120,6 +120,7 @@ The system uses a MySQL database  with the following main tables:
 - Monitor bookings and payments
 - Handle customer feedback
 
+
 ## 💳 Payment Features
 
 - Support for major credit/debit cards
@@ -127,6 +128,7 @@ The system uses a MySQL database  with the following main tables:
 - Secure payment processing
 - Automated refund system
 - Payment confirmation and receipts
+
 
 ## 🔒 Security Features
 
@@ -136,12 +138,14 @@ The system uses a MySQL database  with the following main tables:
 - Input validation and sanitization
 - SQL injection prevention
 
+
 ## 📱 User Interface
 - The application features a modern, responsive design with:
 - Clean and intuitive navigation
 - Mobile-friendly interface
 - Professional styling with CSS
 - Interactive elements with JavaScript
+
 
 ## 🛣️ Key Functionalities
 
