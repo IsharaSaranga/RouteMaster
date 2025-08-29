@@ -160,7 +160,7 @@ The system uses a MySQL database  with the following main tables:
 6. **Feedback System**: Customer support and feedback collection
 7. **Admin Controls**: Comprehensive administrative tools
 
-## 🙏 Acknowledgments
+##    🙏   Acknowledgments
 
 - Built with modern web technologies
 - Designed for scalability and maintainability
