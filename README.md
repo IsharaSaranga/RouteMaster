@@ -4,8 +4,6 @@
 
    RouteMaster is a comprehensive web-based bus scheduling and booking system that provides real-time bus information, seat reservation, and payment processing. The system serves as a complete solution for bus transportation management with separate interfaces for passengers, drivers, and administrators.
 
-   
-
 ## 🚀 Features
 
 ### For Passengers
@@ -86,7 +84,6 @@ The system uses a MySQL database  with the following main tables:
    git clone https://github.com/yourusername/RouteMaster.git
    cd RouteMaster
    ```
-
 2. **Setup Database**
    - Start XAMPP and ensure Apache and MySQL services are running
    - Open phpMyAdmin (http://localhost/phpmyadmin)
@@ -99,7 +96,6 @@ The system uses a MySQL database  with the following main tables:
      ```php
      $con = new mysqli("localhost", "root", "", "busschedulings");
      ```
-
 4. **Access the Application**
    - Place the project in your XAMPP `htdocs` folder
    - Navigate to `http://localhost/RouteMaster/IWT_KDY/KNDUNI_20/`
