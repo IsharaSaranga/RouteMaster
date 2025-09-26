@@ -16,7 +16,7 @@ Unacceptable behaviors include:
 - Publishing private information without consent  
 
 ## Enforcement
-Instances of unacceptable behavior may be reported by contacting the project team at **[your-email@example.com]**.  
+Instances of unacceptable behavior may be reported by contacting the project team at **[isharagunathunga@gmail.com]**.  
 All complaints will be reviewed and investigated.
 
 ## Attribution
